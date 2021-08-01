@@ -1,4 +1,5 @@
-![Always learning](https://user-images.githubusercontent.com/84203012/127755085-0d4ee45d-0654-4fba-90b2-5ab5845af42d.png)
+![ALWAYS LEARNING (1)](https://user-images.githubusercontent.com/84203012/127755163-785d2d5c-0ed4-45bf-8096-4f0b3ffaf7b5.png)
+
 
 
 
