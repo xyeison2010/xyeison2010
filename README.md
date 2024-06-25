@@ -7,10 +7,14 @@
 
 # ¡¡Hola!! Gracias por visitar mi github
 ## Perfil 🖋️
-Desarrollador de Software, las capacidades que desarrollo son :
-Diseño de requerimientos de proyectos informaticos.
-Analisis de requerimientos.
-Manejo de relaciones interpersonales,trabajo en equipo ,facilidad de aprendizaje ,compromiso con las actividades a desarrollar ,entrega puntual ,manejo y apoyo a la organizacion y ejecución de proyectos.
+Como desarrollador de software, mis capacidades incluyen:
+
+- [x] Diseño y análisis de requerimientos de proyectos informáticos.
+- [x] Facilidad de aprendizaje y compromiso con las actividades a desarrollar.
+- [x] Resolución de problemas, la comunicación y los conocimientos técnicos.
+- Además, tengo experiencia como practicante desarrollador Oracle ERP Cloud, donde realicé la creación de reportes, generacion de plantillas y colaboré en la solución de diseños
+funcionales técnicos. Durante mi práctica, también me familiaricé con las mejores prácticas en gestión de bases de datos y optimización de procesos.
+
 ## Manejo de sistemas :computer:
-SQL Server ,MySQL ,PostgreSQL ,React ,Redux ,JavaScript ,Jquery ,HTML 5 ,Css ,Git ,GitHub ,JPA/Hibernate ,Java ,Spring boot ,Spring Security ,Thymeleaf ,Docker.
+Tecnologías de frontend como React, Redux, JavaScript, jQuery, HTML5, CSS y Thymeleaf. En el backend, tengo experiencia con Java, Spring Boot, Spring Security y JPA/Hibernate. Además, manejo gestores de bases de datos como Oracle, SQL Server y MySQL. También utilizo herramientas y otras tecnologías como Git, GitHub y Docker.
 
