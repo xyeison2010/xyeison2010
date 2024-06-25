@@ -16,5 +16,5 @@ Como desarrollador de software, mis capacidades incluyen:
 funcionales técnicos. Durante mi práctica, también me familiaricé con las mejores prácticas en gestión de bases de datos y optimización de procesos.
 
 ## Manejo de sistemas :computer:
-Tecnologías de frontend como React, Redux, JavaScript, jQuery, HTML5, CSS y Thymeleaf. En el backend, tengo experiencia con Java, Spring Boot, Spring Security y JPA/Hibernate. Además, manejo gestores de bases de datos como Oracle, SQL Server y MySQL. También utilizo herramientas y otras tecnologías como Git, GitHub y Docker.
+Tecnologías de frontend como React, JavaScript, jQuery, HTML5, CSS y Thymeleaf. En el backend, tengo experiencia con Java, Spring Boot, Spring Security y JPA/Hibernate. Además, manejo gestores de bases de datos como Oracle, SQL Server y MySQL. También utilizo herramientas y otras tecnologías como Git, GitHub y Docker.
 
